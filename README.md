@@ -106,10 +106,17 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-$ git clone
+$ git clone for this backend:
 
  https://github.com/NATASHA-ct/Backend_Hello_Rails_React.git
 
+ #### Link to frontend repository
+
+    https://github.com/NATASHA-ct/frontend_hello_rails_react.git
+
+#### Link to frontend repository pull request
+ 
+    https://github.com/NATASHA-ct/frontend_hello_rails_react/pull/1
 
 
 ### Install
@@ -137,7 +144,6 @@ $ git clone
     `$ bin/rails db:setup`
 
 
-### Usage
 ### Usage
 --Once you have your repository cloned on your machine, feel free to modify it as needed.
 - To add your own page
