@@ -134,6 +134,10 @@ $ git clone for this backend:
     - Initialize your project with Git.
     - Make sure that your project has Postgres database set up.
     - Run rails server and visi thttp://127.0.0.1:3000/ in your browser!
+    - git clone git@github.com:NATASHA-ct/Backend_Hello_Rails_React.git
+    - cd Backend_Hello_Rails_React
+    - bundle install install
+    - rails s
 
     ### run the following in your terminal:
     - gem install rails
