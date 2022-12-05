@@ -16,18 +16,18 @@ Metrics/MethodLength:
   Include:
     - "app/controllers/*"
     - "app/models/*"
-  Max: 100
+  Max: 120
 Metrics/AbcSize:
   Include:
     - "app/controllers/*"
     - "app/models/*"
-  Max: 100
+  Max: 150
 Metrics/ClassLength:
   Max: 150
 Metrics/BlockLength:
   AllowedMethods: ['describe']
-  Max: 100
-  
+  Max: 130
+
 Style/Documentation:
   Enabled: false
 Style/ClassAndModuleChildren:
@@ -42,7 +42,8 @@ Style/FrozenStringLiteralComment:
   EnforcedStyle: never
 
 Layout/EndOfLine:
-   Enabled: False
+  Enabled: False
+
 Layout/HashAlignment:
   EnforcedColonStyle: key
 Layout/ExtraSpacing:
@@ -60,3 +61,4 @@ Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
+  
