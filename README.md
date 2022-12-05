@@ -118,7 +118,16 @@ $ git clone for this backend:
  
     https://github.com/NATASHA-ct/frontend_hello_rails_react/pull/1
 
+- Once you have your repository cloned on your machine, feel free to modify it as needed.
+    - To add to your own page on the browser link
 
+    - To run the project, execute the following command in your terminal:
+    `rails s`
+
+    - Add the following endpoint on the browser link `http://localhost:3000` inorder to view the api with all greetings 
+    `api/v1/greetings`
+
+ 
 ### Install
 ` Navigate to the created folder.
 
